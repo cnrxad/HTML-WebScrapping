@@ -16,11 +16,12 @@ On the other hand, Requests is a Python library that allows you to easily send H
 ## ➡ How to run the script?
 To run the script, you will need to have Python installed on your system. Additionally, you will need to install the necessary Python libraries, such as Beautiful Soup and Requests. You can install these libraries using pip, the Python package installer.
 
-Here is an example of how you can install Beautiful Soup and Requests:
+Here is an example of how you can install Beautiful Soup, Pandas and Requests:
 
 ```
 pip install beautifulsoup4
 pip install requests
+pip install pandas
 ```
 
 Once you have installed Python and the necessary libraries, you can run the Python script using the following command in the terminal:
