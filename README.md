@@ -19,8 +19,8 @@ To run the script, you will need to have Python installed on your system. Additi
 Here is an example of how you can install Beautiful Soup and Requests:
 
 ```
-pip installation beautifulsoup4
-pip installation requests
+pip install beautifulsoup4
+pip install requests
 ```
 
 Once you have installed Python and the necessary libraries, you can run the Python script using the following command in the terminal:
