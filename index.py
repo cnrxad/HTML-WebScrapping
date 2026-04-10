@@ -12,5 +12,3 @@ res = requests.get(url)
 htmlData = res.content
 parsedData = BeautifulSoup(htmlData, "html.parser")
 print(parsedData.prettify())
-
-print("----------------------------\n| made by cnrxad, for you. |\n----------------------------")

@@ -19,7 +19,7 @@ To run the script, you will need to have Python installed on your system. Additi
 Here is an example of how you can install Beautiful Soup, Pandas and Requests:
 
 ```
-pip install beautifulsoup4
+pip install bs4
 pip install requests
 pip install pandas
 ```
